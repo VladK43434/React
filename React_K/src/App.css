@@ -1,0 +1,4 @@
+.wrapper{max-width:1000px;margin:30px auto;background:rgba(255,255,255,.9);padding:20px;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,.3);}
+.controls{display:flex;gap:20px;justify-content:center;margin-bottom:20px;}
+.controls label{display:flex;flex-direction:column;font-weight:bold;}
+.loading{text-align:center;padding-top:200px;font-size:24px;color:#fff;}
