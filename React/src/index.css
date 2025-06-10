@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  /* Yellow-blue gradient */
+  background: linear-gradient(180deg, #FFD400 0%, #FFD400 50%, #0057B7 50%, #0057B7 100%);
+  min-height: 100vh;
+}
